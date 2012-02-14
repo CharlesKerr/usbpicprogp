@@ -1,1 +1,7 @@
-A modification of the USBPicProg programmer to operate as a standalone pic programmer
+Thank you to Frans for the origional USBPicProg which works extremly well.
+
+This is a modification of the origional programmer to operate as a standalone pic programmer as well.
+
+I have added a 64k i2c eeprom, a pushbutton switch and a 5v regulator.
+
+
