@@ -4,4 +4,6 @@ This is a modification of the origional programmer to operate as a standalone pi
 
 I have added a 64k i2c eeprom, a pushbutton switch and a 5v regulator.
 
+The Schematic and board files are still in Kicad format.
+
 
